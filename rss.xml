@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[danzante]]></title>
         <description><![CDATA[danzante]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danzante/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 16:46:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 17:07:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danzante/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Company Danzante]]></title>
             <description><![CDATA[<article><h1>Company Danzante</h1><p>Company
@@ -18,9 +18,9 @@ investigative creative process while supporting and nurturing the
 professional careers of passionate dance artists.  Company Danzante 
 serves the local community through engaging dance presentations, 
 education programs, and outreach activities.</p></article>]]></description>
-            <link>undefinedcompany-danzante/index.html</link>
+            <link>https://thegrid.ai/danzante/company-danzante/index.html</link>
             <guid isPermaLink="false">b000b19a-8713-457f-b103-45dbcaaf8659</guid>
-            <pubDate>Thu, 17 Mar 2016 16:45:38 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 17:07:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
