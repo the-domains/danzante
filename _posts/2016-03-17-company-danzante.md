@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Company\n Danzante is a professional repertory dance company based in Northern \nVirginia that presents contemporary dance by seasoned and emerging \nchoreographers and performers of our time.\_ Company Danzante’s goal is \nto promote excellence in contemporary dance with captivating dance \nproductions and conceptual dance creations through an emphasis in the \ninvestigative creative process while supporting and nurturing the \nprofessional careers of passionate dance artists.\_ Company Danzante \nserves the local community through engaging dance presentations, \neducation programs, and outreach activities."
-datePublished: '2016-03-17T16:45:38.166Z'
-dateModified: '2016-03-17T16:45:25.628Z'
+datePublished: '2016-03-17T17:07:51.092Z'
+dateModified: '2016-03-17T16:45:46.394Z'
 title: Company Danzante
 author: []
+sourcePath: _posts/2016-03-17-company-danzante.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-company-danzante.md
-published: true
 url: company-danzante/index.html
 _type: Article
 
