@@ -1,7 +1,7 @@
 name: danzante
 favicon: null
-layout_spectrum: 0.15052908356301486
-typography_spectrum: 0.19182798312976956
+layout_spectrum: 0.88522
+typography_spectrum: 0.82519
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.524234474170953
+  brandStrength: 0.8125
   lightness: 0.9369306596927345
   saturation: 0.8148073570337147
-  rhythmicContrast: 0.17527611157856882
+  rhythmicContrast: 0.5
 purpose: []
